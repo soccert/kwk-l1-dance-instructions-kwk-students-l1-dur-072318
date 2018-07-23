@@ -16,3 +16,6 @@ def skip-step
   puts "bounce right foot back up slightly, kicking it a few inches back"
   puts " right,left,right and right"
 end
+def upper Body
+  puts "holding your arms out in front of you, straight and chest level"
+  puts ""
