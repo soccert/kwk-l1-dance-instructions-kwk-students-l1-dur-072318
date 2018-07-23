@@ -18,4 +18,3 @@ def skip-step
 end
 def upper Body
   puts "holding your arms out in front of you, straight and chest level"
-  puts ""
